@@ -13,9 +13,7 @@ CELERY_QUEUES // 指定队列，4.0更推荐使用task_queues http://docs.celery
 
 ##### 3. flower和supervisor监控和部署celery (未完成)
 
-
-
-​	
-
-​	
+```
+完成了celery在supervisor的配置， 在celery-example中
+```
 
