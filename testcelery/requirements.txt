@@ -1,7 +1,7 @@
 amqp==2.3.2
 backports.shutil-get-terminal-size==1.0.0
 billiard==3.5.0.4
-celery==4.2.1
+celery==5.2.2
 decorator==4.3.0
 Django==1.11.4
 enum34==1.1.6
